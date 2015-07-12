@@ -6,6 +6,7 @@ A small [buildroot](http://buildroot.uclibc.org/)-based image for [Docker](http:
 The following useful modules/frameworks are installed:
 
 * [NodeJS](http://nodejs.org) version 0.12.07
+* [fibers](https://github.com/laverdet/node-fibers) version 0.6.8
 * [forever](https://github.com/nodejitsu/forever) version 0.14.2
 
 Currently using buildroot 2014.08
