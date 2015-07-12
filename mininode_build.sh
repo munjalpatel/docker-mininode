@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -e
 
-imagename=tinynode
+imagename=mininode
 
 cdir=$(pwd)
 source ./${imagename}_config
