@@ -5,12 +5,8 @@ A small [buildroot](http://buildroot.uclibc.org/)-based image for [Docker](http:
 
 The following useful modules/frameworks are installed:
 
-* [NodeJS](http://nodejs.org) version 0.10.30
-* [Express](http://expressjs.com/) version 4.9.8
-* [CoffeeScript](http://coffeescript.org/) version 1.8.0
-* [Socket IO](http://socket.io/) version 1.1.0
-* [Underscore.js](http://underscorejs.org/) version 1.7.0
-* [forever](https://github.com/nodejitsu/forever) version 0.11.1
+* [NodeJS](http://nodejs.org) version 0.12.07
+* [forever](https://github.com/nodejitsu/forever) version 0.14.2
 
 Currently using buildroot 2014.08
 
